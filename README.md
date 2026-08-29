@@ -1,6 +1,6 @@
 # 🚀 Eat Token Generator
 
-A simple web-based tool created by **Killer Sharma (Aditya)** to help developers extract **EAT Tokens** and generate **Garena Free Fire access tokens** from authentication callback URLs.
+A simple web-based tool created by **STAR GAMER** to help developers extract **EAT Tokens** and generate **Garena Free Fire access tokens** from authentication callback URLs.
 
 ⚠️ This project is made for educational and research purposes only to demonstrate how authentication flows work.
 
@@ -8,15 +8,15 @@ A simple web-based tool created by **Killer Sharma (Aditya)** to help developers
 
 ## 🌐 Live Website
 
-[![Open Website](https://img.shields.io/badge/OPEN-LIVE_WEBSITE-green?style=for-the-badge)](https://killersharmabot.github.io/Eat-Token)
+[![Open Website](https://img.shields.io/badge/OPEN-LIVE_WEBSITE-green?style=for-the-badge)](https://ff-token.netlify.app/)
 
-🔗 https://killersharmabot.github.io/Eat-Token
+🔗 **https://ff-token.netlify.app/**
 
 ---
 
 ## 🖥 Live Website Preview
 
-[![Website Preview](https://image.thum.io/get/width/1200/https://killersharmabot.github.io/Eat-Token)](https://killersharmabot.github.io/Eat-Token)
+[![Website Preview](https://image.thum.io/get/width/1200/https://ff-token.netlify.app/)](https://ff-token.netlify.app/)
 
 Click the image above to open the live website.
 
@@ -52,7 +52,7 @@ This tool helps developers:
 
 Visit the website:
 
-https://killersharmabot.github.io/Eat-Token
+**https://ff-token.netlify.app/**
 
 Under **Select Provider & Login**, choose your preferred login method:
 
@@ -82,23 +82,32 @@ After successful login:
 1. Go back to the previous page
 2. Open your browser history
 3. Look for URLs containing:
+```
 
 /callback/?eat=
 ?eat=
 api-ticket.ff.gameid.garena.co.id
 ticket.kiosgamer.co.id
 
+```
+
 ---
 
 ### 4️⃣ Example URLs
 
-Garena Callback URL
+**Garena Callback URL**
+```
 
 https://api-ticket.ff.gameid.garena.co.id/oauth/callback/?eat={your_eat_token}&lang=en&region={your_region}&account_id={your_uid}&nickname={your_nickname}
 
-Kiosgamer URL
+```
+
+**Kiosgamer URL**
+```
 
 https://ticket.kiosgamer.co.id/?eat={your_eat_token}&lang=en&region={your_region}&account_id={your_uid}&nickname={your_nickname}
+
+```
 
 ---
 
@@ -106,7 +115,7 @@ https://ticket.kiosgamer.co.id/?eat={your_eat_token}&lang=en&region={your_region
 
 1. Copy the entire URL
 2. Paste it into the input box on the website
-3. Click GENERATE ACCESS
+3. Click **GENERATE ACCESS**
 
 The tool will automatically extract the EAT token and generate the access token response.
 
@@ -116,7 +125,7 @@ The tool will automatically extract the EAT token and generate the access token 
 
 After generation:
 
-- Click COPY FULL RESPONSE
+- Click **COPY FULL RESPONSE**
 - Use the response for testing or development
 
 ---
@@ -133,14 +142,15 @@ The developer is not responsible for misuse.
 
 ---
 
-## 🔗 Connect With Me
+## 🔗 Connect With STAR GAMER
 
-Developer: Killer Sharma (Aditya)
-
-Telegram: https://t.me/KillerSharmaBot  
-YouTube: https://youtube.com/@KillerSharmaBot  
-Instagram: https://instagram.com/KillerSharmaBot  
-GitHub: https://github.com/KillerSharmaBot
+| Platform | Link |
+|----------|------|
+| 📺 YouTube | [@star_rdp](https://youtube.com/@star_rdp) |
+| 📱 Instagram | [@star__gamer67](https://www.instagram.com/star__gamer67) |
+| 💬 Telegram | [STAR_METHODE](https://t.me/STAR_METHODE) |
+| 💚 WhatsApp | [STAR GAMER Channel](https://whatsapp.com/channel/0029Vb8CVYAJJhzPQmP8DT2t) |
+| 🐙 GitHub | [STAR-GMR/EAT-TOKEN](https://github.com/STAR-GMR/EAT-TOKEN) |
 
 ---
 
@@ -152,4 +162,5 @@ GitHub: https://github.com/KillerSharmaBot
 
 ---
 
-⭐ Made with ❤️ by Killer Sharma (Aditya)
+⭐ Made with ❤️ by **STAR GAMER**
+```
